@@ -1,0 +1,2 @@
+Monte Carlos Search Tree: https://mcts.netlify.app/mcts/
+Connect4 Principles and Techniques: https://web.stanford.edu/class/archive/cs/cs221/cs221.1192/2018/restricted/posters/yuex/poster.pdf
